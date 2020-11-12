@@ -1,2 +1,2 @@
-# CLASS-36
-database
+# synchronousBallMovement
+Ball moving synchronously
